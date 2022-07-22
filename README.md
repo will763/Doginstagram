@@ -54,7 +54,7 @@ In the frontend part I learned to use the ML5 library to check if the images rea
 contained dogs using the coco-ssd model, I also learned to use the SWR hook to query
 the api and make the interface fluid. In the backend part I learned to use Jwt together
 with Spring Security for the authentication and authorization part,  I also learned to create routes to 
-receive parameters of the multipart/file type.
+receive parameters of the multipart/form-data type.
 
 ## Author 🙋‍♂️ 😄
 
